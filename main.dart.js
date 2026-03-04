@@ -81640,7 +81640,7 @@ L(a){var s,r,q=null
 if(this.c.length===0)return B.ay
 s=A.a3(a).ax.b
 r=t.p
-return A.b0(q,A.cR(A.b([A.d0(A.b([A.b0(q,q,B.l,s.ba(0.3),q,q,q,2,q,q,q,q,60),new A.bV(B.dO,A.bi("EXPERIENCE",q,q,A.b7().$4$color$fontSize$fontWeight$letterSpacing(s,30,B.H,6),q),q),A.b0(q,q,B.l,s.ba(0.3),q,q,q,2,q,q,q,q,60)],r),B.G,B.ct,B.y,0,q),new A.e8(B.hZ,A.auA(new A.a0X(this),new A.a0Y(this),q),q)],r),B.G,B.w,B.y),B.l,q,q,q,q,q,q,B.DF,q,q,1/0)}}
+return A.b0(q,A.cR(A.b([A.d0(A.b([A.b0(q,q,B.l,s.ba(0.3),q,q,q,2,q,q,q,q,30),new A.bV(B.dO,A.bi("EXPERIENCE",q,q,A.b7().$4$color$fontSize$fontWeight$letterSpacing(s,30,B.H,6),q),q),A.b0(q,q,B.l,s.ba(0.3),q,q,q,2,q,q,q,q,30)],r),B.G,B.ct,B.y,0,q),new A.e8(B.hZ,A.auA(new A.a0X(this),new A.a0Y(this),q),q)],r),B.G,B.w,B.y),B.l,q,q,q,q,q,q,B.DF,q,q,1/0)}}
 A.a0Y.prototype={
 $1(a){var s=this.a
 return A.au2(new A.a0V(s),s.c.length,null,B.fN,B.aj,!0)},
@@ -81744,7 +81744,7 @@ m=n.a.c
 l=m==null?null:m.f
 s=l!=null&&l.length!==0?2:4
 break
-case 2:if(!B.c.q(l,"download="))p=l+(B.c.q(l,"?")?"&download=":"?download=")
+case 2:if(!B.c.q(l,"download="))p=l+(B.c.q(l,"?")?"&download=AbdllahElAwadiResume.pdf":"?download=AbdllahElAwadiResume.pdf")
 else p=l
 o=A.d2(p,0,null)
 s=7
